@@ -17,7 +17,6 @@ libraryDependencies ++= Seq(
       "com.thoughtworks.binding" %%% "dom" % bindingVersion,
       "com.thoughtworks.binding" %%% "futurebinding" % bindingVersion,
       "com.thoughtworks.binding" %%% "jspromisebinding" % bindingVersion,
-"org.julienrf" %%% "play-json-derived-codecs" % "4.0.1",
     "com.lihaoyi" %%% "utest" % "0.4.5" % "test"
 )
 
